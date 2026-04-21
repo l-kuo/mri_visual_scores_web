@@ -1,0 +1,15 @@
+{
+    "Subject_id": "example_subject",
+    "Diagnosis": "Normal",
+    "Diagnosis_conf": 67.02,
+    "GCA": 1,
+    "GCA_conf": 62.24,
+    "MTA_RIGHT": 1,
+    "MTA_RIGHT_conf": 59.74,
+    "MTA_LEFT": 1,
+    "MTA_LEFT_conf": 62.72,
+    "ERICA_RIGHT": 0,
+    "ERICA_RIGHT_conf": 58.61,
+    "ERICA_LEFT": 0,
+    "ERICA_LEFT_conf": 64.04
+}
