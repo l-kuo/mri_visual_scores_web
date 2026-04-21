@@ -29,4 +29,4 @@ To run the pipeline:
 The intermediate processed files are saved in the `./results` directory. The final prediction results are saved in the `predictions.json`.
 
 ## Downloads
-The weight files can be download from [mri_visual_scores_weights](https://192.168.5.144/share.cgi?ssid=2382304aeaae4e60b8411d6844abdf17)
+The weight files can be download from [mri_visual_scores_weights](https://qnap-2.ai-center.asia/share.cgi?ssid=2382304aeaae4e60b8411d6844abdf17#2382304aeaae4e60b8411d6844abdf17)
